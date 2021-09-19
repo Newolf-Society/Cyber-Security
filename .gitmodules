@@ -10,3 +10,6 @@
 [submodule "Cryptographic-Tool"]
 	path = Cryptographic-Tool
 	url = https://github.com/charvibannur/Cryptographic-Tool
+[submodule "AutoSanitiser"]
+	path = AutoSanitiser
+	url = https://github.com/forgot02/AutoSanitiser.git
